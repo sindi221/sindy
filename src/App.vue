@@ -65,7 +65,7 @@ const registerTask = () => {
 .container {
   margin: 0;
   padding: 0;
-  background-image: url('assets\bgcute.png');
+  background-image: url('./assets\bgcute.png');
   background-size: cover;
   background-position: center;
   width: 100vw;
